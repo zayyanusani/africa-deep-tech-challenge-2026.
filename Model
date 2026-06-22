@@ -1,0 +1,12 @@
+Model: Qwen2.5-Coder 3B Instruct
+
+Format: GGUF
+
+Quantization: Q4_K_M
+
+Runtime: llama.cpp
+
+Target Hardware:
+- 8GB RAM
+- Integrated Graphics
+- Offline Inference
