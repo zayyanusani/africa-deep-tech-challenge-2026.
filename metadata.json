@@ -1,0 +1,21 @@
+{
+  "team_id": "zayyanu-sani-team",
+  "domain": "coding_assistants",
+  "language_scope": ["en", "ha"],
+  "african_alpha_claim": true,
+  "budget_laptop_claim": true,
+  "submitter": {
+    "name": "Zayyanu Sani",
+    "email": "zayyanusanitv@gmail.com",
+    "github_handle": "zayyanusani"
+  },
+  "cross_disciplinary_pairing": {
+    "discipline": "education",
+    "load_bearing": true,
+    "description": "Offline coding assistant for students and beginner software developers in Africa."
+  },
+  "test_prompts": [
+    "Write a Python function that calculates factorial.",
+    "Explain JavaScript loops in simple Hausa language."
+  ]
+}
